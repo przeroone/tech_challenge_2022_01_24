@@ -11,3 +11,6 @@
 ## Question 3
 :spiral_notepad: [QuestionThree.java](https://github.com/przeroone/tech_challenge_2022_01_24/blob/master/QuestionThree.java)\
 :running_woman: `docker run -it --rm --name tech-challenge przeroone/tech-challenge QuestionThree 20`
+
+## Docker image
+:whale: [Docker Hub](https://hub.docker.com/repository/docker/przeroone/tech-challenge)
